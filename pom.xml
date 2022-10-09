@@ -12,7 +12,7 @@
     <artifactId>demoTraining</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demoTraining</name>
-    <description>Demo project for Spring Boot</description>
+    <description>MovieApp</description>
     <properties>
         <java.version>18</java.version>
     </properties>
